@@ -1,7 +1,7 @@
-Meu nome è Lara 
-Desenho
-Leio
-"Durmo"
+Meu nome è Lara;
+Desenho,
+Leio,
+"Durmo", e
 Estudo
 
 Email:
